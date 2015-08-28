@@ -1,0 +1,42 @@
+4000,0,'Albert',40
+5001,0,'Champlain Pl',50
+5002,0,'Plz Blvd',50
+5101,0,'1111 Main',51
+5102,0,'Plz Blvd',51
+5202,0,'1111 Main',52
+5201,0,'Champlain Pl',52
+6001,0,'1111 Main',60
+6002,0,'Bessborough',60
+6104,0,'Champlain Pl',61
+6103,0,'Elmwood',61
+6202,0,'Casino',62
+6201,0,'Plz Blvd',62
+6302,0,'Champlain Pl',63
+6301,0,'Gagnon / Shediac',63
+6404,0,'1111 Main',64
+6403,0,'Hospitals',64
+6504,0,'Killam',65
+6503,0,'Plz Blvd',65
+6603,0,'Caledonia',66
+6604,0,'Highfield Sq',66
+6702,0,'Edinburgh',67
+6701,0,'Highfield Sq',67
+6801,0,'Highfield Sq',68
+6802,0,'KE Spencer Memorial Home',68
+7003,0,'Crandall U',70
+7004,0,'Plz Blvd',70
+7104,0,'Coliseum',71
+7103,0,'Plz Blvd',71
+8004,0,'Bridgedale',80
+8003,0,'Highfield Sq',80
+8103,0,'Highfield Sq',81
+8104,0,'Riverview',81
+9301,0,'Adélard-Savoie / Dieppe Blvd',93
+9302,0,'Champlain Pl',93
+9401,0,'Bourque / Chartersville',94
+9402,0,'Champlain Pl',94
+9503,0,'Champlain Pl',95
+9504,0,'Fox Crk / Amirault',95
+206404,0,'Highfield Sq',2064
+206403,0,'Hospitals',2064
+9900000,0,'Magnetic Hl',99000

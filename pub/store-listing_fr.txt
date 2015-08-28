@@ -1,0 +1,29 @@
+Title: Bus Codiac Transpo Moncton - …
+----------
+Short description:
+Autobus Codiac Transpo à Moncton pour MonTransit.
+Horaires…
+----------
+What's new in this version?:
+Horaires du 1 janvier 2007 au 30 décembre 2020.
+----------
+Full description:
+Cette application ajoute les informations des autobus de Codiac Transpo à MonTransit.
+
+L'app contient les horaires plannifiées.
+
+Les autobus de Codiac Transpo desservent Moncton, Riverview et Dieppe au Nouveau-Brunswick, Canada.
+
+Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
+
+Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+
+Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
+
+Ces horaires sont générées à partir du fichier GTFS fourni par la Codiac Transpo, Ville de Moncton.
+http://www.moncton.ca/Gouvernement/Donn_es_ouvertes/Donn_es_ouvertes_-_Objectif/Catalogue_de_donn_es/Fichiers_Transit__GTFS_.htm
+
+Cette application est gratuite et open-source : 
+https://github.com/mtransitapps/ca-moncton-codiac-transpo-bus-android
+
+Cette application n'est pas associée à Codiac Transpo, Ville de Moncton.

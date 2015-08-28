@@ -1,0 +1,43 @@
+Title: Moncton Codiac Transpo Bus - …
+----------
+Short description:
+Moncton Codiac Transpo Bus for MonTransit.
+Schedule…
+----------
+What's new in this version?:
+Schedule from January 1, 2007 to December 30, 2020.
+----------
+Full description:
+This app adds Codiac Transpo buses information to MonTransit.
+
+This app provides the buses schedule.
+
+Codiac Transpo buses serve Moncton, Riverview and Dieppe in New Brunswick, Canada.
+
+Once this application is installed, the MonTransit app will display buses information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by the City of Moncton Codiac Transpo Division.
+http://www.moncton.ca/Government/Terms_of_use/Open_Data_Purpose/Data_Catalogue/Transit_Files__GTFS_.htm
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-moncton-codiac-transpo-bus-android
+
+This app is not related with the City of Moncton Codiac Transpo Division.
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-moncton-codiac-transpo-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone:
+----------
+Privacy Policy:
