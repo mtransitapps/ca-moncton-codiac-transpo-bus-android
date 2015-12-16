@@ -10,7 +10,7 @@ Horaires du 1 janvier 2007 au 30 décembre 2020.
 Full description:
 Cette application ajoute les informations des autobus de Codiac Transpo à MonTransit.
 
-L'app contient les horaires plannifiées.
+L'app contient les horaires planifiés.
 
 Les autobus de Codiac Transpo desservent Moncton, Riverview et Dieppe au Nouveau-Brunswick, Canada.
 
