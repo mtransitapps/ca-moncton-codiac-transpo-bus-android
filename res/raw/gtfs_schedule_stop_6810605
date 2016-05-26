@@ -1,4 +1,4 @@
-'MS',8103,71830,,'',10000,,'',10000,,'',20000,,'',10000,,'',10000,,'',20000,,'',10000,,'',10000,,'',10000,,'',10000,,'',20000,,''
-'SU',8103,111830,,'',10000,,'',20000,,'',10000,,'',10000,,'',10000,,''
-'MS',11108104,94040,,'',40000,,'',60000,,''
-'SU',11108104,124040,,''
+'MS',8103,71830,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',20000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',20000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',20000,0,'Crystal To Main Via Findlay'
+'SU',8103,111830,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',20000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay'
+'MS',11108104,94040,0,'Crystal Dr Towards Coverdale',40000,0,'Crystal Dr Towards Coverdale',60000,0,'Crystal Dr Towards Coverdale'
+'SU',11108104,124040,0,'Crystal Dr Towards Coverdale'

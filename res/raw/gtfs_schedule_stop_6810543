@@ -1,4 +1,4 @@
-'MS',8003,64510,,'',7000,,'',3000,,'',7000,,'',3000,,'',77000,,'',3000,,'',7000,,'',3000,,''
-'SU',1908103,182030,,''
-'MS',11108104,95100,,'',40000,,'',60000,,''
-'SU',11108104,125100,,''
+'MS',8003,64510,0,'Hillsborough Towards Old Coach',7000,0,'Hillsborough Towards Old Coach',3000,0,'Hillsborough Towards Old Coach',7000,0,'Hillsborough Towards Old Coach',3000,0,'Hillsborough Towards Old Coach',77000,0,'Hillsborough Towards Old Coach',3000,0,'Hillsborough Towards Old Coach',7000,0,'Hillsborough Towards Old Coach',3000,0,'Hillsborough Towards Old Coach'
+'SU',1908103,182030,0,'95 Champlain Pl'
+'MS',11108104,95100,0,'Hillsborough Towards Hiltz',40000,0,'Hillsborough Towards Hiltz',60000,0,'Hillsborough Towards Hiltz'
+'SU',11108104,125100,0,'Hillsborough Towards Hiltz'

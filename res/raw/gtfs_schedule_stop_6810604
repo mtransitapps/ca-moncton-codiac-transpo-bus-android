@@ -1,4 +1,4 @@
-'MS',8103,71800,,'',10000,,'',10000,,'',20000,,'',10000,,'',10000,,'',20000,,'',10000,,'',10000,,'',10000,,'',10000,,'',20000,,''
-'SU',8103,111800,,'',10000,,'',20000,,'',10000,,'',10000,,'',10000,,''
-'MS',11108104,94000,,'',40000,,'',60000,,''
-'SU',11108104,124000,,''
+'MS',8103,71800,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',20000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',20000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',20000,0,'Crystal To Main Via Findlay'
+'SU',8103,111800,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',20000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay',10000,0,'Crystal To Main Via Findlay'
+'MS',11108104,94000,0,'Fairmont Towards Crystal Dr Via Findlay Blvd',40000,0,'Fairmont Towards Crystal Dr Via Findlay Blvd',60000,0,'Fairmont Towards Crystal Dr Via Findlay Blvd'
+'SU',11108104,124000,0,'Fairmont Towards Crystal Dr Via Findlay Blvd'
