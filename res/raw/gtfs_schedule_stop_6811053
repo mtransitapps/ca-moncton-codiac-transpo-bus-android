@@ -1,4 +1,6 @@
-'MS',7003,72740,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',30000,0,'Gorge',10000,0,'Gorge'
-'MS',7004,72740,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',30000,0,'Gorge',10000,0,'Gorge'
+'SA',7003,72740,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',33000,0,'Gorge'
+'SA',7004,72740,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',33000,0,'Gorge'
 'SU',7003,102740,0,'Gorge',10000,0,'Gorge',30000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge'
 'SU',7004,102740,0,'Gorge',10000,0,'Gorge',30000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge'
+'WD',7003,72900,0,'Gorge',12000,0,'Gorge',7840,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',11160,0,'Gorge',11840,0,'Gorge',30000,0,'Gorge'
+'WD',7004,72900,0,'Gorge',12000,0,'Gorge',7840,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',10000,0,'Gorge',11160,0,'Gorge',11840,0,'Gorge',30000,0,'Gorge'
