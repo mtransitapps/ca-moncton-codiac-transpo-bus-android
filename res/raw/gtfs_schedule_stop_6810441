@@ -12,6 +12,6 @@
 'MS',8104,63150,0,'Main',10000,0,'Main',10000,0,'Main',20000,0,'Main',10000,0,'Main',10000,0,'Main',20000,0,'Main',10000,0,'Main',10000,0,'Main',10000,0,'Main',10000,0,'Main',20000,0,'Main'
 'SU',8104,103150,0,'Main',10000,0,'Main',20000,0,'Main',10000,0,'Main',10000,0,'Main',10000,0,'Main'
 'SU',19008104,173150,0,'Weldon To Main'
-'MS',27808104,93130,0,'Weldon To Main',40000,0,'Weldon To Main',60000,0,'Weldon To Main'
-'SU',27808104,123130,0,'Weldon To Main'
+'MS',27808104,93120,0,'Weldon To Main',40000,0,'Weldon To Main',60000,0,'Weldon To Main'
+'SU',27808104,123120,0,'Weldon To Main'
 'MS',28808104,213100,0,'Main'
