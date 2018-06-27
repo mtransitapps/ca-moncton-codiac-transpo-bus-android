@@ -8,6 +8,7 @@
 'WD',8003,65920,0,'South Main Sud',7000,0,'South Main Sud',7930,0,'South Main Sud',4000,0,'South Main Sud',79000,0,'South Main Sud',8000,0,'South Main Sud',4000,0,'South Main Sud'
 'MS',8103,72940,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',20000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',20000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',20000,0,'1234 Main To South Main Sud'
 'SU',8103,112940,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',20000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud',10000,0,'1234 Main To South Main Sud'
+'ALL',9900000,103950,0,'Champlain',17500,0,'Champlain',33000,0,'Champlain',17500,0,'Champlain'
 'SU',19008103,182950,0,'1234 Main To South Main Sud'
 'MS',27808103,102940,0,'1234 Main To South Main Sud',40000,0,'1234 Main To South Main Sud',60000,0,'1234 Main To South Main Sud'
 'SU',27808103,132940,0,'1234 Main To South Main Sud'
