@@ -8,7 +8,7 @@
 6002,0,'Bessborough',60
 6104,0,'Champlain Pl',61
 6103,0,'Elmwood',61
-6202,0,'Casino',62
+6202,0,'Mountain',62
 6201,0,'Plz Blvd',62
 6302,0,'Champlain Pl',63
 6301,0,'Gagnon / Shediac',63
@@ -26,6 +26,8 @@
 7004,0,'Plz Blvd',70
 7104,0,'Coliseum',71
 7103,0,'Plz Blvd',71
+7201,0,'Champlain Pl',72
+7202,0,'Hospitals',72
 8004,0,'Bridgedale',80
 8003,0,'Highfield Sq',80
 8103,0,'Highfield Sq',81
@@ -38,12 +40,9 @@
 9504,0,'Fox Crk / Amirault',95
 2006104,0,'Champlain Pl',20061
 2006103,0,'Elmwood',20061
-2006404,0,'1111 Main',20064
-2006403,0,'Hospitals',20064
 3606701,0,'1111 Main',36067
 3606702,0,'Bessborough',36067
 9900000,0,'Magic Mtn',99000
-16009300,0,'Champlain',160093
 19008103,0,'Highfield Sq',190081
 19008104,0,'Riverview',190081
 27808104,0,'Bridgedale',278081
