@@ -1,20 +1,20 @@
 5000,0,'N To Plz / S To CF Champlain',50
-5100,0,'North / Nord',51
-5101,0,'South / Sud',51
+5100,0,'North',51
+5101,0,'South',51
 6000,0,'Bessborough',60
 6100,0,'Elmwood',61
 6200,0,'Hildegard',62
 6300,0,'Lewisville',63
-6400,0,'Hospitals - Hôpitaux',64
+6400,0,'Hosps',64
 6500,0,'Killam',65
 6600,0,'Caledonia',66
 6700,0,'Edinburgh',67
 6800,0,'Ch Salisbury Rd',68
 7000,0,'Mapleton',70
-7100,0,'Coliseum - Colisée',71
+7100,0,'Coliseum',71
 8100,0,'Riverview',81
 8200,0,'Pl Riverview Pl',82
 9300,0,'Champlain',93
 9400,0,'Centrale',94
 9500,0,'Amirault',95
-9900100,0,'Shuttle For METS',99001
+9900100,0,'METS',99001
