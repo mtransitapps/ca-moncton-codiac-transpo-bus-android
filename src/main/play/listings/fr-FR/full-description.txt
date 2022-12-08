@@ -6,12 +6,12 @@ Les autobus de Codiac Transpo desservent Moncton, Riverview et Dieppe au Nouveau
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
-Cette application a seulement une icône temporaire : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play http://goo.gl/pCk5mV
+Cette application a seulement une icône temporaire et pas d'écran : télécharger l'app MonTransit (gratuit) dans la section "Autres ..." ci-dessous ou en cliquant sur ce lien Google Play https://goo.gl/pCk5mV
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
 Ces horaires sont générées à partir du fichier GTFS fourni par la Codiac Transpo, Ville de Moncton.
-http://www.moncton.ca/Gouvernement/Donn_es_ouvertes/Donn_es_ouvertes_-_Objectif/Catalogue_de_donn_es/Fichiers_Transit__GTFS_.htm
+https://ouvert.moncton.ca/search?tags=transport
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-moncton-codiac-transpo-bus-android
