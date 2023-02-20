@@ -3,4 +3,6 @@
     <integer name="gtfs_rts_db_version">20230207</integer>
     <string name="gtfs_rts_authority">org.mtransit.android.ca_moncton_codiac_transpo_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="gtfs_rts_contact_us">https://www.codiactranspo.ca/moncton-transport/contact-us</string>
+    <string name="gtfs_rts_contact_us_fr">https://www.codiactranspo.ca/fr/moncton-transport/nous-joindre</string>
 </resources>
