@@ -1,20 +1,20 @@
-16,'16','Hennessey','663398',-555808518,3
-50,'50','Red Line - Ligne Rouge','CF000F',-1872629887,3
-51,'51','Green Line - Ligne Verte','1F7334',323847864,3
-53,'53','Mapleton','F27935',-1723983743,3
-60,'60','Bessborough','FFB1EA',216162070,3
-61,'61','Elmwood','815A81',-1295791962,3
-62,'62','Hildegard','DA87C8',-1974219278,3
-63,'63','Lewisville','F3A47B',-1728736011,3
-64,'64','Hospitals - Hôpitaux','87411E',280276488,3
-65,'65','Killam','B59814',-589222609,3
-66,'66','Caledonia','A0CCF0',-1357075528,3
-67,'67','Edinburgh','663398',-882475055,3
-68,'68','Ch Salisbury Rd','509BDF',-644214235,3
-81,'81','Riverview','9C4A8A',1197962397,3
-82,'82','Place Riverview Place','9C4A8A',349376796,3
-85,'85','Riverview Connector','DC143C',-354122585,3
-86,'86','Pinewood','916EB8',362768854,3
-93,'93','Champlain','83E6A2',1142279701,3
-94,'94','Centrale','B49BCF',-1331494122,3
-95,'95','Amirault','831D6D',147639745,3
+16,'16','Hennessey','663398',1573,3
+50,'50','Red Line - Ligne Rouge','CF000F',1691,3
+51,'51','Green Line - Ligne Verte','1F7334',1692,3
+53,'53','Mapleton','F27935',1694,3
+60,'60','Bessborough','FFB1EA',1722,3
+61,'61','Elmwood','815A81',1723,3
+62,'62','Hildegard','DA87C8',1724,3
+63,'63','Lewisville','F3A47B',1725,3
+64,'64','Hospitals - Hôpitaux','87411E',1726,3
+65,'65','Killam','B59814',1727,3
+66,'66','Caledonia','A0CCF0',1728,3
+67,'67','Edinburgh','663398',1729,3
+68,'68','Ch Salisbury Rd','509BDF',1730,3
+81,'81','Riverview','9C4A8A',1785,3
+82,'82','Place Riverview Place','9C4A8A',1786,3
+85,'85','Riverview Connector','DC143C',1789,3
+86,'86','Pinewood','916EB8',1790,3
+93,'93','Champlain','83E6A2',1818,3
+94,'94','Centrale','B49BCF',1819,3
+95,'95','Amirault','831D6D',1820,3
