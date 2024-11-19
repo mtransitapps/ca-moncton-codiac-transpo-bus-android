@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="gtfs_rts_source_label">www7.moncton.ca</string>
+    <string name="gtfs_rts_agency_id">0b1d2925-0bfd-4868-81f6-dcdcc21d62b5</string>
     <integer name="gtfs_rts_agency_type">3</integer>
     <string name="gtfs_rts_timezone">America/Halifax</string>
     <string name="gtfs_rts_color">005238</string>
