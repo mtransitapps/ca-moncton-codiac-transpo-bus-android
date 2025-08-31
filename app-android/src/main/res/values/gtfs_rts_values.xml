@@ -4,4 +4,6 @@
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://www.codiactranspo.ca/moncton-transport/contact-us</string>
     <string name="gtfs_rts_contact_us_fr">https://www.codiactranspo.ca/fr/moncton-transport/nous-joindre</string>
+    <string name="gtfs_rts_fares">https://www.codiactranspo.ca/moncton-transport/fares</string>
+    <string name="gtfs_rts_fares_fr">https://www.codiactranspo.ca/fr/moncton-transport/tarifs</string>
 </resources>
