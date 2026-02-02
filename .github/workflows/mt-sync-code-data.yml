@@ -21,9 +21,9 @@ on:
         required: false
   schedule:
     - cron: '0 12 * * 2' # Tuesdays @ 12pm UTC # WEEKLY https://crontab.guru/#0_12_*_*_2
-# gh workflow run mt-sync-code-data.yml --ref <branch>
+# gh workflow run mt-sync-code-data.yml --ref $(git rev-parse --abbrev-ref HEAD)
 # gh run list --workflow=mt-sync-code-data.yml
-# gh run watch ; gh browse --branch <branch>
+# gh run watch ; gh browse --branch $(git rev-parse --abbrev-ref HEAD)
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
