@@ -38,8 +38,8 @@ runs:
         if: github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'
         shell: bash
         run: |
-          echo "[MT] > Checking out submodules closest branch, '$MT_BRANCH_NAME' or '$MT_TARGET_BRANCH_NAME':"
-          git submodule foreach 'git checkout $MT_BRANCH_NAME || git checkout $MT_TARGET_BRANCH_NAME'
+          echo "[MT] > Checking out submodules closest branch, '$MT_BRANCH_NAME' or '$MT_TARGET_BRANCH_NAME' or '$MT_DEFAULT_BRANCH_NAME':"
+          git submodule foreach 'git checkout $MT_BRANCH_NAME || git checkout $MT_TARGET_BRANCH_NAME || git checkout $MT_DEFAULT_BRANCH_NAME'
           echo "[MT] > Showing submodules current branch:"
           git submodule foreach 'git branch --show-current'
 
