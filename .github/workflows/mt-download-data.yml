@@ -33,7 +33,7 @@ jobs:
         id: mt-setup
         uses: ./.github/actions/setup
         with:
-          code-sync: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
+          code-sync: ${{ github.event_name == 'schedule'  }} # || github.event_name == 'workflow_dispatch'
 
       - name: MT commit code change
         run: ./commit_code_change.sh
