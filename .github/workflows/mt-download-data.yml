@@ -20,6 +20,8 @@ env:
   MT_IS_SUBMODULE: ${{ contains(fromJSON('["mtransitapps/commons", "mtransitapps/commons-java", "mtransitapps/parser", "mtransitapps/commons-android"]'), github.repository) }}
   MT_IS_MAIN_REPO: ${{ contains(fromJSON('["mtransitapps/mtransit-for-android"]'), github.repository) }}
   MT_IS_AGENCY_REPO: ${{ ! contains(fromJSON('["mtransitapps/commons", "mtransitapps/commons-java", "mtransitapps/parser", "mtransitapps/commons-android", "mtransitapps/mtransit-for-android"]'), github.repository) }}
+  MT_IS_AGENCY_RDS: ${{ ! endsWith(github.repository, '-bike-android') }}
+  MT_IS_AGENCY_BIKE: ${{ endsWith(github.repository, '-bike-android') }}
   # git commit & push
   MT_ORG_GIT_COMMIT_ON: ${{ secrets.MT_ORG_GIT_COMMIT_ON }}
   MT_ORG_GIT_COMMIT_OFF: ${{ secrets.MT_ORG_GIT_COMMIT_OFF }}
