@@ -11,6 +11,9 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 env:
+  MT_BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
+  MT_TARGET_BRANCH_NAME: ${{ github.base_ref || github.ref_name }}
+  MT_SHA: ${{ github.event.pull_request.head.sha || github.sha }}
   # git commit & push
   MT_ORG_GIT_COMMIT_ON: ${{ secrets.MT_ORG_GIT_COMMIT_ON }}
   MT_ORG_GIT_COMMIT_OFF: ${{ secrets.MT_ORG_GIT_COMMIT_OFF }}
