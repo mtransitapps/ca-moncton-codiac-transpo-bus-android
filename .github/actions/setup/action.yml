@@ -43,7 +43,7 @@ runs:
           git submodule foreach 'git branch --show-current'
 
       - name: MT checkout this repo PR branch to allow push commits
-        if: github.event_name == 'pull_request' && env.MT_IS_AGENCY_REPO == 'true'
+        if: env.MT_IS_AGENCY_REPO == 'true' && (github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch')
         shell: bash
         run: |
           echo "[MT] > Checking out this repo closest branch, '$MT_BRANCH_NAME' or '$MT_TARGET_BRANCH_NAME':"
