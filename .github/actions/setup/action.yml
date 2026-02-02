@@ -33,8 +33,9 @@ runs:
       - name: MT check out submodules
         shell: bash
         run: ./checkout_submodules.sh
+
       - name: MT check out all git submodule closest branch
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'pull_request' || github.event_name == 'workflow_dispatch'
         shell: bash
         run: |
           echo "[MT] > Checking out submodules closest branch, '$MT_BRANCH_NAME' or '$MT_TARGET_BRANCH_NAME':"
@@ -78,10 +79,12 @@ runs:
       - name: MT code setup
         shell: bash
         run: ./commons/code_setup.sh
+
       - name: MT set up JDK 17
         uses: actions/setup-java@v5
         with:
           distribution: 'temurin'
           java-version: '17'
+
       - name: Setup Gradle
         uses: gradle/actions/setup-gradle@v5
