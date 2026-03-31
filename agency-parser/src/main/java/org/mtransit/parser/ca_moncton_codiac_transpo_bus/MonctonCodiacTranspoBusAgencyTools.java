@@ -62,10 +62,10 @@ public class MonctonCodiacTranspoBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
-	private static final long RID_ENDS_WITH_C1 = MRouteSNToIDConverter.endsWith(MRouteSNToIDConverter.other(0L));
-	private static final long RID_ENDS_WITH_C2 = MRouteSNToIDConverter.endsWith(MRouteSNToIDConverter.other(1L));
-	private static final long RID_ENDS_WITH_LT = MRouteSNToIDConverter.endsWith(MRouteSNToIDConverter.other(2L));
-	private static final long RID_ENDS_WITH_LTS = MRouteSNToIDConverter.endsWith(MRouteSNToIDConverter.other(3L));
+	private static final long RID_ENDS_WITH_C1 = MRouteSNToIDConverter.endsWith(MRouteSNToIDConverter.other(0));
+	private static final long RID_ENDS_WITH_C2 = MRouteSNToIDConverter.endsWith(MRouteSNToIDConverter.other(1));
+	private static final long RID_ENDS_WITH_LT = MRouteSNToIDConverter.endsWith(MRouteSNToIDConverter.other(2));
+	private static final long RID_ENDS_WITH_LTS = MRouteSNToIDConverter.endsWith(MRouteSNToIDConverter.other(3));
 
 	private static final String C1 = "c1";
 	private static final String C2 = "c2";
