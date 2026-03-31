@@ -35,11 +35,6 @@ public class MonctonCodiacTranspoBusAgencyTools extends DefaultAgencyTools {
 		return LANG_EN_FR;
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -199,10 +194,9 @@ public class MonctonCodiacTranspoBusAgencyTools extends DefaultAgencyTools {
 		);
 	}
 
-	@NotNull
 	@Override
-	public String cleanDirectionHeadsign(int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
-		directionHeadSign = super.cleanDirectionHeadsign(directionId, fromStopName, directionHeadSign);
+	public @NotNull String cleanDirectionHeadsign(@Nullable GRoute gRoute, int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
+		directionHeadSign = super.cleanDirectionHeadsign(gRoute, directionId, fromStopName, directionHeadSign);
 		directionHeadSign = CleanUtils.cleanBounds(directionHeadSign); // only kept EN for now
 		return directionHeadSign;
 	}
@@ -248,7 +242,7 @@ public class MonctonCodiacTranspoBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.CLEAN_AND.matcher(tripHeadsign).replaceAll(CleanUtils.CLEAN_AND_REPLACEMENT);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private static final Pattern UNIVERSITY_ENCODING = Pattern.compile("((^|\\W)(universit�)(\\W|$))", Pattern.CASE_INSENSITIVE);
@@ -267,13 +261,13 @@ public class MonctonCodiacTranspoBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanSlashes(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
 	public int getStopId(@NotNull GStop gStop) {
 		final String stopCode = gStop.getStopCode();
-		if (stopCode.length() > 0 && CharUtils.isDigitsOnly(stopCode)) {
+		if (!stopCode.isEmpty() && CharUtils.isDigitsOnly(stopCode)) {
 			return Integer.parseInt(stopCode);
 		}
 		final Matcher matcher = DIGITS.matcher(stopCode);
