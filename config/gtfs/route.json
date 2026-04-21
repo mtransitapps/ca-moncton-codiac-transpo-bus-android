@@ -1,0 +1,7 @@
+{
+    "trip_headsign_cleaners": [
+        {
+            "regex": "^\\*$"
+        }
+    ]
+}

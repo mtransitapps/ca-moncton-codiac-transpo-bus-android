@@ -22,7 +22,7 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-// https://open.moncton.ca/datasets/transit-files-gtfs
+// https://open.moncton.ca/documents/moncton::transit-files-gtfs/about
 public class MonctonCodiacTranspoBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
@@ -230,6 +230,7 @@ public class MonctonCodiacTranspoBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String cleanTripHeadsign(@NotNull String tripHeadsign) {
+		tripHeadsign = super.cleanTripHeadsign(tripHeadsign);
 		tripHeadsign = AVENIR_CENTER_.matcher(tripHeadsign).replaceAll(AVENIR_CENTER_REPLACEMENT);
 		tripHeadsign = CF_CHAMPLAIN_.matcher(tripHeadsign).replaceAll(CF_CHAMPLAIN_REPLACEMENT);
 		tripHeadsign = WEST_MONCTON_.matcher(tripHeadsign).replaceAll(WEST_MONCTON_REPLACEMENT);
