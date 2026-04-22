@@ -22,7 +22,6 @@ import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-// https://open.moncton.ca/documents/moncton::transit-files-gtfs/about
 public class MonctonCodiacTranspoBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {

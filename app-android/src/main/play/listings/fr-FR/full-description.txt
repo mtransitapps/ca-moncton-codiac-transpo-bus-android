@@ -11,7 +11,7 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
 Ces horaires sont générées à partir du fichier GTFS fourni par la Codiac Transpo, Ville de Moncton.
-https://ouvert.moncton.ca/search?tags=transport
+https://ouvert.moncton.ca/documents/fichiers-relatifs-aux-transports-en-commun-gtfs/about
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-moncton-codiac-transpo-bus-android
