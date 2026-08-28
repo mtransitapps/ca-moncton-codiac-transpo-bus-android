@@ -1,24 +1,24 @@
-1600,0,'CF Champlain',16
+1600,0,'Elmwood/Hennessey/U De M',16
 5000,0,'N To Plz / S To CF Champlain',50
-5103,1,'N',51
-5104,1,'S',51
-6000,0,'1111/PPT/Codiac/1111',60
-6100,0,'CF/UdeM/Costco/CF',61
-6200,0,'NP/MH/Casino/NP',62
-6300,0,'CF/Weston/CF',63
-6400,0,'1111/Hosp/UdeM/Hosp/1111',64
-6500,0,'NP/Hosp/NP',65
+5100,0,'Magnetic Hl',51
+5101,0,'Pl Champlain Pl',51
+6000,0,'Peoples Pk Tower / Codiac',60
+6100,0,'U De M / Costco',61
+6200,0,'Magnetic Hi/Casino/Twin Oaks',62
+6300,0,'Champlain Pl / Weston',63
+6400,0,'Moncton Hosp/ U De M/Dumont Hosp',64
+6500,0,'Moncton Hosp',65
 6600,0,'1110/Caledonia/Pinetree/1110',66
 6700,0,'1110/MIP/1110',67
 6800,0,'1110/Salisbury/1110',68
 8100,0,'Riverview',81
 8200,0,'Pl Riverview Pl',82
-8500,0,'Riverview Connector',85
-8600,0,'Pinewood',86
-9300,0,'Champlain Pl/Adelard Savoie/Pole Aquatique',93
-9400,0,'PAH/BM/CF/PAH',94
-9600,0,'PAH/FC/CF/PAH',96
+8500,0,'Riverview Pl',85
+8600,0,'Avenir Ctr/Riverview Pl',86
+9300,0,'Pl Champlain Pl/Pole Aquatique',93
+9400,0,'Aquatique To Pl Champlain Pl',94
+9600,0,'Aquatique To Champlain',96
 9800,0,'Chartersville/Vanier/Aquatique',98
 9801,0,'Lakeburn/Lorette/Aquatique',98
-1009400,0,'CF/Centrale/Aquatique/Pascal/CF',10094
-1009600,0,'Champlain To Aquatique',10096
+1009400,0,'Champlain To Aquatique',10094
+1009600,0,'Pl Champlain Pl To Aquatique',10096
